@@ -56,3 +56,4 @@ HANGMANPICS = ['''
  / \  |
       |
 =========''']
+print(HANGMANPICS)
